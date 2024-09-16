@@ -1,0 +1,36 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20240916161733
+Nombre de usuario: CHOPPER1\rafag
+Usuario RunAs: CHOPPER1\rafag
+Nombre de la configuración: 
+Máquina: CHOPPER1 (Microsoft Windows NT 10.0.22631.0)
+Aplicación host: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Id. de proceso: 12844
+PSVersion: 5.1.22621.3958
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.3958
+BuildVersion: 10.0.22621.3958
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+La transcripción ha comenzado. El archivo de salida es \HASH_Report.txt
+Hash del archivo Adobe pdf premium:
+Hash del archivo Access.lnk: 1F8AC68E0E6398E49E4A66D63B9C5BDD3AA8A28888C8E23D0ABA5C3B4476B6B2
+Hash del archivo Bitwarden.lnk: 0F1D4A32449A35D63D615485DEDA43816549F82340D8B0886F1546A572558140
+Hash del archivo Excel.lnk: 38E8DC24062A03784F13E8F1470DC74C3DAB89831A74505A065663765E737F09
+Hash del archivo HASH_Report.txt: 2684D4EA020274F378D346E7A1B91A7288F7EF619B1D05F7C3ACC308E8A2D0F2
+Hash del archivo Microsoft Edge.lnk: D5364846AB8F39090C48020F2261F998BC9E8763C99665CD3C266C3BC7CB5581
+Hash del archivo MiModulo.zip: 05828F1C674FD34F10CF308A06CD027BB7770C91D543C9FE6892BCDA1F347EE6
+Hash del archivo modulo.ps1: 4ECE30A2C754F6A88042BD1154226F562FBB5552CB39B59BD5032B091E17052A
+Hash del archivo Paint - Acceso directo.lnk: 52D9318DB4B29D504C6242D69FC52BB9A1B6E30CB23BF4AAE56A4B1D20C49A8C
+Hash del archivo PowerPoint.lnk: 802FE10653558DE5E661E0610BF09479E64C5F2AB5953315E1A3B05886D936B0
+Hash del archivo Project.lnk: 2B2A3EDC2424831182AA8ED5106AD38AD5BD850472CA2C677B4CA660D715B884
+Hash del archivo Publisher.lnk: 2CA16BB9781F3021F843879950062F8DB1B582494E5D23798472FA0EACC8319C
+Hash del archivo Word.lnk: 9FA334758338BFA135E9BA7F3013A59A7F3FEDC0F149A3B1F3D85AD6BDCEDD99
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20240916161736
+**********************
