@@ -1,0 +1,6 @@
+Vásquez Goris, D. (2021, August 13). Manejo de Git - Remoto y Local - PowerShell. YouTube. https://www.youtube.com/watch?v=fzOk3lzybk0
+
+Gruenauer, P. (2024, March 27). Die strenge PowerShell: Strict Mode. YouTube. https://www.youtube.com/watch?v=ZOXL9GM9kn4
+
+CARDONA PAIZ, A. (2024, March 1). Repositorios Colaborativos en GitHub. YouTube. https://www.youtube.com/watch?v=cdmqz3vREjs&t=535s
+9:00 hasta el final
